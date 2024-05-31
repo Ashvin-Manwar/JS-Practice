@@ -22,3 +22,4 @@ class User {
 
 const ashvin = new User("a@ashvin.ai", "abc")
 console.log(ashvin.email);
+console.log(ashvin.password);
